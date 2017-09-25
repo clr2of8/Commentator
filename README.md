@@ -35,4 +35,4 @@ The command below will create a copy of the NoComment.xlsx file with the text fr
 Invoke-Commentator -OfficeFile .\NoComment.xlsx -CommentFile .\comment.txt -Author "Alexander Smith" -LastModifedBy "Jim Drinkwater"
 ```
 
-![Demo of Usage](../raw/images/commentator-demo.gif)
+![Demo of Usage](https://github.com/clr2of8/Commentator/blob/master/images/commentator-demo.gif?raw=true)
